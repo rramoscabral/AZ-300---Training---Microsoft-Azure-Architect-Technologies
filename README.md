@@ -11,7 +11,7 @@ The courses area as follows:
  * AZ-300t02 - Implementing Workloads and Security (1-Day)
  * AZ-300t03 - Foundational Cloud Architect Technology Solutions and Implement Authentication and Secure Data (1-Day)
  * AZ-300t04 - Creating and Deploying Apps (1-Day)
- * **AZ-300T05 has been removed**
+ * **AZ-300T05 has been removed/retired (Implementing Authentication and Secure Data)**
  * AZ-300t06 - Developing for the Cloud (1-Day)
  
 <br>
