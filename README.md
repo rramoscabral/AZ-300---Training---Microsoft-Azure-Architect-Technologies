@@ -18,12 +18,17 @@ The courses area as follows:
  
  ### Command Line tools
  Manage your Azure services and apps using scripts from the command line.
+  * **Warning** : Azure PowerShell “Az” module will replace “AzureRM” module. The current version of some Az modules is not compatible with the older AzureRM module.
+
+ 
  
  #### Cloud and standalone container
   * Azure Cloud Shell – Browser-Based Command Line 
      * [Run PowerShell in Azure Cloud Shell](https://shell.azure.com/)
      * [Run Azure CLI in Azure Cloud Shell](https://shell.azure.com/)
   * [Run Azure CLI in a Docker container](https://docs.microsoft.com/en-us/cli/azure/run-azure-cli-docker)
+ 
+ 
  
  #### Local install
   * [Install Azure PowerShell on Windows with PowerShellGet](https://docs.microsoft.com/en-us/powershell/azure/install-az-ps)
