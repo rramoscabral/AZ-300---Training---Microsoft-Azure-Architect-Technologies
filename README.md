@@ -18,7 +18,7 @@ The courses area as follows:
  
  ### Command Line tools
  Manage your Azure services and apps using scripts from the command line.
-  * **Warning** : Azure PowerShell “Az” module will replace “AzureRM” module. The current version of some Az modules is not compatible with the older AzureRM module.
+  * **Warning** : Azure PowerShell “Az” module will replace “AzureRM” module. The current version of some Az modules is not compatible with the older AzureRM modules.
 
  
  
