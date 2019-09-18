@@ -7,16 +7,21 @@ AZ-300 Training for Microsoft Official Course (MOC) AZ-300 - Microsoft Azure Arc
 AZ-300 has six areas of study and there are five Azure Architect courses.
 
 The courses area as follows:
- * AZ-300t01 - Deploying and Configuring Infrastructure (1-Day)
- * AZ-300t02 - Implementing Workloads and Security (1-Day)
- * AZ-300t03 - Foundational Cloud Architect Technology Solutions and Implement Authentication and Secure Data (1-Day)
- * AZ-300t04 - Creating and Deploying Apps (1-Day)
- * **AZ-300T05 has been removed/retired (Implementing Authentication and Secure Data)**
- * AZ-300t06 - Developing for the Cloud (1-Day)
  
+| Course | Study Areas | Exam Weights |
+| --- | --- | --- |
+| AZ-300t01 | Deploying and Configuring Infrastructure | 20-25% |
+| AZ-300t02 | Implementing Workloads and Security  | 20-25% |
+| AZ-300t03 | Understanding Cloud Architect Technology Solutions | 5-10% |
+| AZ-300t04  | Creating and Deploying Apps | 5-10% |
+|  **AZ-300T05** | **has been removed/retired (Implementing Authentication and Secure Data)** | 5-10 % |
+| AZ-300t06 | Developing for the Cloud | 20-25% |
+
+
+
 <br>
  
- ### Command Line tools
+ ### Azure command-line tools
  Manage your Azure services and apps using scripts from the command line.
   * **Warning** : Azure PowerShell “Az” module will replace “AzureRM” module. The current version of some Az modules is not compatible with the older AzureRM modules.
 
@@ -46,3 +51,18 @@ The courses area as follows:
 ### Resources
 * [Azure SDKs and command-line tools](https://azure.microsoft.com/en-us/downloads/)
 * [Microsoft Azure Blog](https://azure.microsoft.com/en-us/blog/)
+
+
+ 
+<br>
+
+
+#### Free eBooks
+ * [Azure for Architects, 2019-05-22](https://azure.microsoft.com/en-us/resources/azure-for-architects/)
+ * [Azure Strategy and Implementation Guide, 2018-11-19](https://azure.microsoft.com/en-us/resources/azure-strategy-and-implementation-guide/en-us/)
+ * [Cloud Design Patterns, 2014-04-03](https://www.microsoft.com/en-us/download/details.aspx?id=42026)
+ * [Building Cloud Apps with Microsoft Azure, 2013](http://download.microsoft.com/download/8/F/4/8F485F6E-EA78-43B5-84DE-1392EAB13779/Microsoft_Press_eBook_Building_Cloud_Apps_with%20Microsoft_Azure_PDF.pdf)
+ * [The Developer’s Guide to Azure, 2017](https://azure.microsoft.com/en-us/campaigns/developer-guide/)
+ * [Security best practices for Azure solutions, 2019-04-19](https://azure.microsoft.com/en-us/resources/security-best-practices-for-azure-solutions/)
+ 
+<br>
