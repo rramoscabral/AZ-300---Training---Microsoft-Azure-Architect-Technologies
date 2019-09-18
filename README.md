@@ -49,8 +49,11 @@ The courses area as follows:
 <br>
 
 ### Resources
+* [Azure Blog](https://azure.microsoft.com/en-us/blog/)
+* [Azure Code Samples](https://azure.microsoft.com/en-in/resources/samples/)
+* [Azure Quickstart Templates](https://azure.microsoft.com/en-in/resources/templates/)
 * [Azure SDKs and command-line tools](https://azure.microsoft.com/en-us/downloads/)
-* [Microsoft Azure Blog](https://azure.microsoft.com/en-us/blog/)
+
 
 
  
@@ -59,10 +62,13 @@ The courses area as follows:
 
 #### Free eBooks
  * [Azure for Architects, 2019-05-22](https://azure.microsoft.com/en-us/resources/azure-for-architects/)
+ * [Azure Serverless Computing Cookbook, Second Edition, 2019-03-18](https://azure.microsoft.com/en-in/resources/azure-serverless-computing-cookbook/)
  * [Azure Strategy and Implementation Guide, 2018-11-19](https://azure.microsoft.com/en-us/resources/azure-strategy-and-implementation-guide/en-us/)
  * [Cloud Design Patterns, 2014-04-03](https://www.microsoft.com/en-us/download/details.aspx?id=42026)
  * [Containerize Your Apps with Docker and Kubernetes, 2019-02-22](https://azure.microsoft.com/en-in/resources/containerize-your-apps-with-docker-and-kubernetes/)
  * [Building Cloud Apps with Microsoft Azure, 2013](http://download.microsoft.com/download/8/F/4/8F485F6E-EA78-43B5-84DE-1392EAB13779/Microsoft_Press_eBook_Building_Cloud_Apps_with%20Microsoft_Azure_PDF.pdf)
+  * [Kubernetes: Up and Running, Second Edition, 2019-08-22](https://azure.microsoft.com/en-in/resources/kubernetes-up-and-running/)
+  * [Kubernetes on Azure Solution Booklet, 2019-05-16](https://azure.microsoft.com/en-in/resources/kubernetes-on-azure-solution-booklet/)
   * [Kubernetes objects on Microsoft Azure, 2018-01-19](https://azure.microsoft.com/en-us/resources/kubernetes-objects-on-microsoft-azure/en-us/)
  * [OpenShift for Developers](https://www.openshift.com/for-developers/)
  * [The Developer’s Guide to Azure, 2017](https://azure.microsoft.com/en-us/campaigns/developer-guide/)
