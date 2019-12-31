@@ -1,5 +1,5 @@
 # AZ-300 - Training - Microsoft Azure Architect Technologies
-AZ-300 Training for Microsoft Official Course (MOC) AZ-300 - Microsoft Azure Architect Technologies
+Training for Microsoft Official Course (MOC) AZ-300 - Microsoft Azure Architect Technologies
 
 <br>
 
