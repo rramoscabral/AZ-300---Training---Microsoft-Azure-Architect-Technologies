@@ -3,6 +3,15 @@ Training for Microsoft Official Course (MOC) AZ-300 - Microsoft Azure Architect 
 
 <br>
 
+**A NEW VERSION OF THIS EXAM, AZ-303, IS AVAILABLE. The objective domain for AZ-304
+is appended below along with a comparison table showing the side by side changes from
+AZ-300 to AZ-303.**
+
+**The English version of this exam retired on September 30, 2020. Localized language
+versions retired on October 30, 2020.**
+
+<br>
+
 ### About the course
 AZ-300 has six areas of study and there are five Azure Architect courses.
 
