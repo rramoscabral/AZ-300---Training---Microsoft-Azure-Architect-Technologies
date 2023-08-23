@@ -1,0 +1,13 @@
+theme: jekyll-theme-slate
+title: AZ-300 - Training - Microsoft Azure Architect Technologies
+description: Companion material and resources for the course 'Microsoft Azure Architect Technologies' delivery by Ricardo Cabral 
+relative_links:
+  enabled: true
+  collections: true
+exclude:
+  - .github/
+include:
+  - README.md
+author: Ricardo Cabral
+twitter_username: rramoscabral
+github_username:  rramoscabral
